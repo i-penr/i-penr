@@ -42,16 +42,16 @@
 <h1>My Github Stats</h1>
 
 <div id="tags">
-<img src="https://img.shields.io/github/followers/i-penrod.svg?style=social&label=Follow&maxAge=2592000" alt="Follow" />
-<img src="https://komarev.com/ghpvc/?username=i-penrod&style=flat-square&color=blue" alt="Views"/>
+<img src="https://img.shields.io/github/followers/i-penr.svg?style=social&label=Follow&maxAge=2592000" alt="Follow" />
+<img src="https://komarev.com/ghpvc/?username=i-penr&style=flat-square&color=blue" alt="Views"/>
 </div>
 <br>
 <div id="stats" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-penrod&exclude_repo=i-penrod,Practica-EMS&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-penr&exclude_repo=i-penr,Practica-EMS&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-penrod&theme=dark&show_icons=true&count_private=true&border_radius=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-penr&theme=dark&show_icons=true&count_private=true&border_radius=5" />
 </a>
 </div>
 
