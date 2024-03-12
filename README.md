@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">EEEEEEEEY</h1>
 
 <div id="technologies align="center">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
@@ -25,10 +25,6 @@
 <h1>General Info</h1>
 
 <div id="info">
-
-  - 💻 I'm a Software Engineer student from Spain
-  - 🌱 I’m currently learning ReactJS
-  - 👯 I’m looking to collaborate on any proyect 😁
   
   - 📫 How to reach me: 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-penalva-rodriguez/)
